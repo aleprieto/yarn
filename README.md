@@ -1,4 +1,4 @@
-yarn
-====
+YARN!
+=====
 
-Yet Another Responsive Navigation
+Yet Another Responsive Navigation. Coming soon.
